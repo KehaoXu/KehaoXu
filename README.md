@@ -9,7 +9,6 @@
 **Huazhong University of Science and Technology, Wuhan, China**  
 *Bachelor of Engineering*  
 *Major:* Optoelectronic Information Science and Engineering  
-*GPA:* 4.25/5, 87.6/100  
 *Core Courses:* Laser Theory and Technology, Fiber Optics, Principles of Communication, Electrodynamics, Principle and Application of Single Chip Microcomputer, Digital Circuit and Logic Design
 
 **University of California, Santa Barbara, CA, USA**  
