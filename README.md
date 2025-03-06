@@ -36,7 +36,8 @@ I am enthusiastic about exploring **neural networks and optical systems**. My re
 
 ## 📫 Contact  
 📧 Email: [kehaoxu@ucsb.edu](mailto:kehaoxu@ucsb.edu)  
-<!-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🔗 [Google Scholar](https://scholar.google.com/citations?user=yourID)   -->
+💼 [LinkedIn](www.linkedin.com/in/kehao-xu-360117355) 
+<!--  🔗 [Google Scholar](https://scholar.google.com/citations?user=yourID)   -->
 
 ---
 
