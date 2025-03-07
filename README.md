@@ -7,7 +7,7 @@
 ---
 
 ## 🔬 Research Interests  
-I am enthusiastic about exploring **neural networks and optical systems**. My research experience includes:  
+I am enthusiastic about exploring **machine learning and optical systems**. My research experience includes:  
 - **Spiking Neural Networks (SNN)** – Implementing SNN for speech recognition with Python  
 - **Design of Wavelength Selective Switch (WSS)** – Optical system simulation & optimization using Zemax  
 - **Biomedical Engineering** – Investigating the correlation between organoid size and optimal drug concentration  
