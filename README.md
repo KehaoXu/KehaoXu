@@ -34,7 +34,7 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 - Implemented circuit and PCB design with **Altium Designer**
 -->
 
-🔹 **Biological Balanced Neuronal Networks**  
+🔹 **[Biological Balanced Neuronal Networks](https://github.com/KehaoXu/Balanced_Networks.git)**  
 - Developed Leaky Integrate-and-Fire (LIF) neuron models with Python
 - Simulated neuronal networks with Poisson-distributed inputs  
 
