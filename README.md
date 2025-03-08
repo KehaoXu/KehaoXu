@@ -18,18 +18,24 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 
 **Programming:** Python, MATLAB, C, Assembly, Verilog HDL  
 **Simulation & Design:** Zemax, Lumerical, RSoft, Altium Designer, ModelSim, AutoCAD, SolidWorks  
-**Development Tools:** Git, VSCode, Linux, AWS, WSL, VMware, Anaconda, LaTeX  
+**Development Tools:** Git, VSCode, Linux, AWS, WSL, VMware, Anaconda, LaTeX, Markdown 
 
 ---
 
 ## 🚀 Projects & Experience  
 
+🔹 **[Computer Vision](https://github.com/KehaoXu/CV.git)**  
+- Implemented edge detection, feature matching, and image stitching
+- Built Convolutional Neural Networks (CNN) for image classification with MNIST datasets
+
+<!--
 🔹 **Waveform Generator Development** (C8051 Microcontroller)  
 - Designed waveform generation using **C programming**  
 - Implemented circuit and PCB design with **Altium Designer**
+-->
 
-🔹 **Simulation of Balanced Neuronal Networks**  
-- Developed Leaky Integrate-and-Fire (LIF) neuron models with **Python**
+🔹 **Biological Balanced Neuronal Networks**  
+- Developed Leaky Integrate-and-Fire (LIF) neuron models with Python
 - Simulated neuronal networks with Poisson-distributed inputs  
 
 ---
