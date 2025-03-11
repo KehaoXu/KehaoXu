@@ -25,10 +25,13 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 
 ## 🚀 Projects & Experience  
 
-🔹 **Computer Vision [(link)](https://github.com/KehaoXu/CV.git)**  
-- Implemented edge detection, feature matching, and image stitching with **Python**
+🔹 **Computer Vision [(link)](https://github.com/KehaoXu/Computer-Vision.git)**  
+- Implemented edge detection, feature matching, and image stitching
 - Built Convolutional Neural Networks (CNN) for image classification with MNIST datasets
 
+🔹 **Optimization [(link)](https://github.com/KehaoXu/Optimization.git)**  
+- Realized classification tasks using different machine learning models with **Python**
+- Compared the results of different models and multi-classification methods
 
 🔹 **Waveform Generator Development** (C8051 Microcontroller)  
 - Designed waveform generation using **C programming**  
