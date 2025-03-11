@@ -8,8 +8,9 @@
 
 ## 🔬 Research Interests  
 I am enthusiastic about exploring **machine learning and optical systems**. My research experience includes:  
+- **Optical Neural Networks (ONN)** - Simulation of free-space diffractive optical neural networks
 - **Spiking Neural Networks (SNN)** – Implementing SNN for speech recognition with Python  
-- **Design of Wavelength Selective Switch (WSS)** – Optical system simulation & optimization using Zemax  
+- **Wavelength Selective Switch (WSS)** – Optical system design, simulation, and optimization using Zemax  
 - **Biomedical Engineering** – Investigating the correlation between organoid size and optimal drug concentration  
 
 ---
@@ -24,20 +25,20 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 
 ## 🚀 Projects & Experience  
 
-🔹 **[Computer Vision](https://github.com/KehaoXu/CV.git)**  
-- Implemented edge detection, feature matching, and image stitching
+🔹 **Computer Vision [(link)](https://github.com/KehaoXu/CV.git)**  
+- Implemented edge detection, feature matching, and image stitching with **Python**
 - Built Convolutional Neural Networks (CNN) for image classification with MNIST datasets
 
-<!--
+
 🔹 **Waveform Generator Development** (C8051 Microcontroller)  
 - Designed waveform generation using **C programming**  
 - Implemented circuit and PCB design with **Altium Designer**
--->
 
+<!--
 🔹 **[Biological Balanced Neuronal Networks](https://github.com/KehaoXu/Balanced_Networks.git)**  
 - Developed Leaky Integrate-and-Fire (LIF) neuron models with Python
 - Simulated neuronal networks with Poisson-distributed inputs  
-
+-->
 ---
 
 ## 📫 Contact  
