@@ -1,6 +1,6 @@
 # Hi there, I'm Kehao Xu 👋
 
-🎓 **B.Eng in Optoelectronic Info Science & Engineering, Huazhong University of Science and Technology (HUST), China**  
+🎓 B.Eng in Optoelectronic Info Science & Engineering, **Huazhong University of Science and Technology, China**  
 📍 Currently studying Electrical and Computer Engineering at **University of California, Santa Barbara, USA**  
 💡 Passionate about **Machine Learning and Optics**  
 
@@ -11,7 +11,7 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 - **Optical Neural Networks (ONN)** - Simulation of free-space diffractive optical neural networks
 - **Spiking Neural Networks (SNN)** – Implementing SNN for speech recognition with Python  
 - **Wavelength Selective Switch (WSS)** – Optical system design, simulation, and optimization using Zemax  
-- **Biomedical Engineering** – Investigating the correlation between organoid size and optimal drug concentration  
+<!-- - **Biomedical Engineering** – Investigating the correlation between organoid size and optimal drug concentration  -->
 
 ---
 
@@ -30,12 +30,12 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 - Built Convolutional Neural Networks (CNN) for image classification with MNIST datasets
 
 🔹 **Optimization [(link)](https://github.com/KehaoXu/Optimization.git)**  
-- Realized classification tasks using different machine learning models with **Python**
+- Realized classification tasks using different machine learning models
 - Compared the results of different models and multi-classification methods
 
-🔹 **Waveform Generator Development** (C8051 Microcontroller)  
-- Designed waveform generation using **C programming**  
-- Implemented circuit and PCB design with **Altium Designer**
+🔹 **Waveform Generator**
+- Designed waveform generation using C programming  
+- Implemented circuit and PCB design with Altium Designer
 
 <!--
 🔹 **[Biological Balanced Neuronal Networks](https://github.com/KehaoXu/Balanced_Networks.git)**  
