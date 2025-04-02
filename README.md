@@ -1,7 +1,7 @@
 # Hi there, I'm Kehao Xu 👋
 
 🎓 B.Eng in Optoelectronic Info Science & Engineering, **Huazhong University of Science and Technology, China**  
-📍 Currently studying Electrical and Computer Engineering at **University of California, Santa Barbara, USA**  
+📍 Currently studying Electrical and Computer Engineering at the **University of California, Santa Barbara, USA**  
 💡 Passionate about **Machine Learning and Optics**  
 
 ---
