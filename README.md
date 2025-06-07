@@ -6,8 +6,7 @@
 
 ---
 
-## 🔬 Research Interests  
-I am enthusiastic about exploring **machine learning and optical systems**. My research experience includes:  
+## 🔬 Research Experiences  
 - **Optical Neural Networks (ONN)** - Simulation of free-space diffractive optical neural networks
 - **Spiking Neural Networks (SNN)** – Implementing SNN for speech recognition with Python  
 - **Wavelength Selective Switch (WSS)** – Optical system design, simulation, and optimization using Zemax  
@@ -19,7 +18,7 @@ I am enthusiastic about exploring **machine learning and optical systems**. My r
 
 **Programming:** Python, MATLAB, C, Assembly, Verilog HDL  
 **Simulation & Design:** Zemax, Lumerical, RSoft, Altium Designer, ModelSim, AutoCAD, SolidWorks  
-**Development Tools:** Git, VSCode, Linux, AWS, WSL, VMware, Anaconda, LaTeX, Markdown 
+**Tools:** LaTeX, Markdown, VSCode, Git, Anaconda, Linux, VMware, WSL, AWS 
 
 ---
 
