@@ -31,7 +31,7 @@
 🔹 **[Nutrition Estimation via Transformer-Based Regression](https://github.com/JasperLuo0228/NutriBench.git)**  
 - Built a regression model to predict carbohydrate content from textual meal descriptions
 - Extracted sentence embeddings with the pre-trained BERT model and trained a multi-layer regressor
-- Achieved a mean absolute error (MAE) of around 4 on the validation set through model fine-tuning
+- Achieved a mean absolute error (MAE) of around 4 on the validation dataset through model fine-tuning
 
 🔹 **[End-to-End 3D Scene Reconstruction from Images](https://github.com/Wayne0758/Computer-Vision.git)**  
 - Implemented a full pipeline from automatic feature matching (SPSG, SIFT, etc) to 3D sparse point cloud generation
