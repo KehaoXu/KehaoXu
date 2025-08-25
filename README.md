@@ -2,13 +2,14 @@
 
 🎓 B.Eng in Optoelectronic Info Science & Engineering, **Huazhong University of Science and Technology**, China  
 📍 Exchange student at the **University of California, Santa Barbara**, CA, USA  
-🎯 Currently M.S. in Electrical and Computer Engineering at **Johns Hopkins University**, MD, USA  
+📚 Currently M.S. in Electrical and Computer Engineering at **Johns Hopkins University**, MD, USA  
 💡 Passionate about **Machine Learning, Image Processing, and Computer Vision**
  
 
 ---
 
 ## 🔬 Research Experiences  
+
 - **Diffractive Optical Neural Networks for Image Classification**
 - **Spiking Neural Networks for Speech Recognition**
 <!--
@@ -20,7 +21,7 @@
 
 ---
 
-## 🚀 Projects & Experience  
+## 🚀 Academic Projects
 
 🔹 **[Nutrition Estimation via Transformer-Based Regression](https://github.com/JasperLuo0228/NutriBench.git)**  
 <!--
@@ -57,7 +58,7 @@
 
 ---
 
-## 💻 Technical Skills  
+## 💻 Skills  
 
 **Programming:** Python, MATLAB, C, Assembly, Verilog HDL  
 **Simulation & Design:** Zemax, Lumerical, Altium Designer, AutoCAD, SolidWorks  
