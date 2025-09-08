@@ -36,7 +36,7 @@
 - Estimated camera parameters using SfM and rendered the reconstructed scene via NeRF
 -->
 
-🔹 **[Frog Call-Based Classification Model](https://github.com/KehaoXu/Optimization.git)**  
+🔹 **[Frog Call Classification](https://github.com/KehaoXu/Optimization.git)**  
 <!--
 - Realized classification tasks using different machine learning models
 - Compared the results of different models and multi-classification methods
