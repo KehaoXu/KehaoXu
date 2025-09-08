@@ -68,7 +68,7 @@
 
 
 ## 📫 Contact  
-📧 [kehaoxu96@gmail.com](mailto:kehaoxu96@gmail.com)  
+📧 [kxu56@jh.edu](mailto:kxu56@jh.edu) or [kehaoxu96@gmail.com](mailto:kehaoxu96@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/kehao-xu-360117355) 
 <!--  🔗 [Google Scholar](https://scholar.google.com/citations?user=yourID)   -->
 
