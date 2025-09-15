@@ -10,7 +10,7 @@
 
 ## 🔬 Research Experiences  
 
-- **Diffractive Optical Neural Networks for Image Classification**
+- **[Diffractive Optical Neural Networks for Image Classification](https://github.com/KehaoXu/diffractive-optical-neural-networks-with-coherence.git)**
 - **Spiking Neural Networks for Speech Recognition**
 <!--
 - **Wavelength Selective Switch (WSS)** – Designed and optimized optical systems using Zemax
