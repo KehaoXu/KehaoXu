@@ -22,7 +22,7 @@
 
 ## 🚀 Academic Projects
 
-🔹 **[Transformer-Based Regression for Nutrition Estimation](https://github.com/JasperLuo0228/NutriBench.git)**  
+🔹 **[Carbohydrate Prediction from Meal Descriptions](https://github.com/JasperLuo0228/NutriBench.git)**  
 <!--
 - Built a regression model to predict carbohydrate content from textual meal descriptions
 - Extracted sentence embeddings with the pre-trained BERT model and trained a multi-layer regressor
