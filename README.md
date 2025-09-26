@@ -1,10 +1,9 @@
 # Hi there, I'm Kehao Xu 👋
 
-🎓 B.Eng in Optoelectronic Info Science & Engineering, **Huazhong University of Science and Technology**, China  
-📍 Exchange student at the **University of California, Santa Barbara**, CA, USA  
 📚 Currently M.S. in Electrical and Computer Engineering at **Johns Hopkins University**, MD, USA  
+📍 Exchange student at the University of California, Santa Barbara, CA, USA  
+🎓 B.Eng in Optoelectronic Info Science & Engineering, Huazhong University of Science and Technology, China  
 💡 Passionate about **Machine Learning, Image Processing, and Computer Vision**
- 
 
 ---
 
