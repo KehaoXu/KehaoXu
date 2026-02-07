@@ -6,7 +6,6 @@
 🎓 B.Eng in Optoelectronic Info Science & Engineering, Huazhong University of Science and Technology, China  
 💡 Passionate about **Machine Learning, Image Processing, and Computer Vision**
 
----
 
 ## 🔬 Research Experiences  
 
@@ -17,9 +16,7 @@
 - **Biomedical Engineering** – Investigating the correlation between organoid size and optimal drug concentration  
 -->
 
-
-
----
+<!--
 
 ## 🚀 Academic Projects
 
@@ -29,13 +26,13 @@
 - Extracted sentence embeddings with the pre-trained BERT model and trained a multi-layer regressor
 - Achieved a mean absolute error (MAE) of around 4 on the validation dataset through model fine-tuning
 -->
-
+<!--
 🔹 **[End-to-End 3D Scene Reconstruction from Images](https://github.com/Wayne0758/Computer-Vision.git)**  
 <!--
 - Implemented a full pipeline from automatic feature matching (SPSG, SIFT, etc) to 3D sparse point cloud generation
 - Estimated camera parameters using SfM and rendered the reconstructed scene via NeRF
 -->
-
+<!--
 🔹 **[Frog Call Classification](https://github.com/KehaoXu/Optimization.git)**  
 <!--
 - Realized classification tasks using different machine learning models
@@ -57,7 +54,7 @@
 -->
 
 ---
-
+<!--
 ## 💻 Skills  
 
 **Programming:** Python, MATLAB, C, Assembly, Verilog HDL  
@@ -72,7 +69,6 @@
 💼 [LinkedIn](https://www.linkedin.com/in/kehao-xu-360117355) 
 <!--  🔗 [Google Scholar](https://scholar.google.com/citations?user=yourID)   -->
 
----
-
+<!--
 ⭐ Feel free to check out my repositories and connect with me!
 -->
