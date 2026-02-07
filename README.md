@@ -1,3 +1,4 @@
+<!--
 # Hi there, I'm Kehao Xu 👋
 
 📚 Currently M.S. in Electrical and Computer Engineering at **Johns Hopkins University**, MD, USA  
@@ -74,3 +75,4 @@
 ---
 
 ⭐ Feel free to check out my repositories and connect with me!
+-->
